@@ -1,7 +1,7 @@
 # SportShopEcommerce
 
 This project involves the creation of an e-commerce website for the sale of sports tools.
-The website offers a variety of products for men, women, and children, as well as a category dedicated to sports equipment.
+The website offers a variety of products for men, women, and children, as well as a category dedicated to sports equipment.<br>
 The data is stored using firebase.
 
 ## Included Files
